@@ -82,7 +82,7 @@ function App() {
       
       </Route> 
 
-      <Route path="/contact" element={<Contact/>} >
+      <Route path="/contact" element={<Contact mode={mode}/>} >
       
       
       </Route> 
